@@ -21,6 +21,7 @@
 - 🧼 Teljes Uninstall opció (letörli a BatApp-ot)
 - 🎨 Egyszerű, menüs, szöveges kezelőfelület
 - 💻 Csak Windows rendszeren fut
+- NE CSERÉLD A FÁJLOK HELYÉT VAGY NEVÉT!
 
 ---
 
@@ -45,3 +46,4 @@
 - 🧼 Full Uninstall option (deletes all BatApp files)
 - 🎨 Simple text-based menu interface
 - 💻 Windows only
+- DON'T RENAME THE FILES
